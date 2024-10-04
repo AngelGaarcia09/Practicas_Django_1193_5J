@@ -10,7 +10,7 @@ Aqui se realiza las practicas de Django que es un Framewor (Marco de trabajo)
 8. Selecionar interprete de python presione F1
 9. Actualizar pip --> python -m pip install --upgrade pip
 10. Instalar Framewor Django --> python -m pip install django
-11. Crear el Proyecto en python Django --> django-admin starproject Cbtis128_5J_1193 .
+11. Crear el Proyecto en python Django --> django-admin startproject Cbtis128_5J_1193 .
 12. Ejecutar el servidor --> python manage.py runserver
 13. Realizar migracion --> python manage.py migrate
 14. vuelve a ejecutar servidor
