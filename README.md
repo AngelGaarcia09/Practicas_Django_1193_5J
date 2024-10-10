@@ -15,4 +15,4 @@ Aqui se realiza las practicas de Django que es un Framewor (Marco de trabajo)
 13. Realizar migracion --> python manage.py migrate
 14. vuelve a ejecutar servidor
 
-
+- 
