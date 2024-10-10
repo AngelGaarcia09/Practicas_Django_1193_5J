@@ -16,3 +16,4 @@ Aqui se realiza las practicas de Django que es un Framewor (Marco de trabajo)
 14. vuelve a ejecutar servidor
 
 - ![image](https://github.com/user-attachments/assets/52ae93c6-ed8a-4a24-92e3-1eb3516d6640)
+- ![image](https://github.com/user-attachments/assets/0ba7bf8e-cd12-4bce-92de-21dd0afa5f79)
